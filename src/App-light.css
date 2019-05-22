@@ -1,0 +1,45 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid black;
+  min-width: 100%;
+  padding: none;
+
+}
+
+.App-header {
+  text-align: center;
+
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+div {
+  /* border: 5px solid black; */
+  overflow: auto;
+}
+
+div.component {
+  /*border: 2.5 solid black; */
+}
+
+@@media (min-width: 700px)) {
+
+  .App {
+    margin-left: 20vw;
+    margin-right: 20vw;
+  }
+
+  body {
+    margin-left: 3em;
+    margin-right: 3em;
+  }
+
+}

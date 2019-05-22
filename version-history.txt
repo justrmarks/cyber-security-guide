@@ -1,0 +1,7 @@
+version 0.1
+----------------
+date: 4-25-2019
+
+- file structure established
+- basic interface template drafted
+- clear goals to be accomplished
